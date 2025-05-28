@@ -1,0 +1,28 @@
+{
+  "keywords": [
+    {"keyword": "искусственный интеллект"},
+    {"keyword": "artificial intelligence"},
+    {"keyword": "machine learning"},
+    {"keyword": "deep learning"},
+    {"keyword": "нейросети"},
+    {"keyword": "AI"},
+    {"keyword": "ИИ"}
+  ],
+  "persons": [
+    {"id": "altman", "name_ru": "Сэм Альтман", "name_en": "Sam Altman", "organization_ids": ["openai"]},
+    {"id": "musk", "name_ru": "Илон Маск", "name_en": "Elon Musk", "organization_ids": ["xai", "tesla", "spacex"]},
+    {"id": "hinton", "name_ru": "Джеффри Хинтон", "name_en": "Geoffrey Hinton", "organization_ids": ["utoronto", "google"]},
+    {"id": "lecun", "name_ru": "Янн Лекун", "name_en": "Yann LeCun", "organization_ids": ["meta"]},
+    {"id": "hassabis", "name_ru": "Демис Хассабис", "name_en": "Demis Hassabis", "organization_ids": ["deepmind", "google"]}
+  ],
+  "organizations": [
+    {"id": "openai", "name": "OpenAI"},
+    {"id": "xai", "name": "xAI"},
+    {"id": "meta", "name": "Meta"},
+    {"id": "deepmind", "name": "DeepMind"},
+    {"id": "google", "name": "Google"},
+    {"id": "tesla", "name": "Tesla"},
+    {"id": "spacex", "name": "SpaceX"},
+    {"id": "utoronto", "name": "University of Toronto"}
+  ]
+} 

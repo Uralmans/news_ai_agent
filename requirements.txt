@@ -1,0 +1,6 @@
+langgraph
+openai
+requests
+tqdm
+pandas 
+python-dotenv
